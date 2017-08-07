@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--点击按钮背景颜色-->
+    <color name="LightCoral">#F08080</color>
+
+    <!--编辑框字体颜色-->
+    <color name="DarkTurquoise">#D98880</color>
+
+    <!--编辑框背景颜色-->
+    <color name="SteelBlue">#85C1E9</color>
+
+    <!--默认按钮背景颜色-->
+    <color name="MediumTurquoise">#1ABC9C</color>
+</resources>
